@@ -21,5 +21,6 @@ More here: https://getbootstrap.com/docs/4.0/utilities/display/
 (05.07.2021)
 
 * Variable scope in php: https://www.php.net/manual/en/language.variables.scope.php
+* Reflected XSS https://www.imperva.com/learn/application-security/reflected-xss-attacks/
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
