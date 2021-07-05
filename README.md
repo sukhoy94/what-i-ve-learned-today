@@ -16,3 +16,10 @@ More here: https://getbootstrap.com/docs/4.0/utilities/display/
 * Laravel components https://laravel.com/docs/8.x/blade#components, https://www.youtube.com/watch?v=VJ1yeoJqpr0, code example https://github.com/sukhoy94/expenses-app/pull/65/commits/bb5729f796c92b7febe70078aa1493699e5fe97c
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+(05.07.2021)
+
+* Variable scope in php: https://www.php.net/manual/en/language.variables.scope.php
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
