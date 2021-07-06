@@ -30,6 +30,5 @@ More here: https://getbootstrap.com/docs/4.0/utilities/display/
 (06.07.2021)
 
 * Postgres overlap: https://database.guide/how-to-test-for-overlapping-dates-in-postgresql/
-* 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
