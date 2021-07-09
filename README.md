@@ -32,4 +32,8 @@ More here: https://getbootstrap.com/docs/4.0/utilities/display/ (#bootstrap, #cs
 * Postgres overlap: https://database.guide/how-to-test-for-overlapping-dates-in-postgresql/ (#db, #postgres)
 * How to work with files - Koterov (#php)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+(09.07.2021)
 
+* CSRF owasp: https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html (#security)
+----------------------------------------------------------------------------------------------------------------------------------------------------
