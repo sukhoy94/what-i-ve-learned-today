@@ -37,3 +37,8 @@ More here: https://getbootstrap.com/docs/4.0/utilities/display/ (#bootstrap, #cs
 
 * CSRF owasp: https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html (#security)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+(10.07.2021)
+
+* dumping eloquent queries: https://stackoverflow.com/questions/18236294/how-do-i-get-the-query-builder-to-output-its-raw-sql-query-as-a-string (#laravel)
+----------------------------------------------------------------------------------------------------------------------------------------------------
