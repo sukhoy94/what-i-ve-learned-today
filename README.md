@@ -42,3 +42,8 @@ More here: https://getbootstrap.com/docs/4.0/utilities/display/ (#bootstrap, #cs
 
 * dumping eloquent queries: https://stackoverflow.com/questions/18236294/how-do-i-get-the-query-builder-to-output-its-raw-sql-query-as-a-string (#laravel)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+(11.07.2021)
+
+* laravel blade inheritance: https://www.udemy.com/course/kurs-laravel-framework/learn/lecture/22533202#overview (#laravel)
+----------------------------------------------------------------------------------------------------------------------------------------------------
