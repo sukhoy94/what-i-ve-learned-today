@@ -46,4 +46,5 @@ More here: https://getbootstrap.com/docs/4.0/utilities/display/ (#bootstrap, #cs
 (11.07.2021)
 
 * laravel blade inheritance: https://www.udemy.com/course/kurs-laravel-framework/learn/lecture/22533202#overview (#laravel)
+* php digest - https://habr.com/ru/post/565202/
 ----------------------------------------------------------------------------------------------------------------------------------------------------
