@@ -59,11 +59,16 @@ More here: https://getbootstrap.com/docs/4.0/utilities/display/ (#bootstrap, #cs
 (13.07.2021)
 
 * laravel loops (#laravel) https://laravel.com/docs/8.x/blade#loops
-`
+
+```
 @foreach @endforeach, @for @endfor
 
 loop variable
-`
+
+@each()
+
+@include
+```
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
