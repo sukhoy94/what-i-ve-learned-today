@@ -95,6 +95,7 @@ don't drink in the middle of the week
 * laravel upsert https://atymic.dev/tips/laravel-8-upserts/ (#laravel)
 
 * add bootstrap 5 do laravel 8 https://larainfo.com/blogs/3-way-to-install-bootstrap-5-in-laravel-8 (#laravel)
+* add own console command in laravel (https://laravel.com/docs/8.x/artisan) (#laravel)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
