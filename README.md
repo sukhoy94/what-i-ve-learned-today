@@ -97,8 +97,12 @@ don't drink in the middle of the week
 * add bootstrap 5 do laravel 8 https://larainfo.com/blogs/3-way-to-install-bootstrap-5-in-laravel-8 (#laravel)
 * add own console command in laravel (https://laravel.com/docs/8.x/artisan) (#laravel)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+(19.07.2021)
 
+* cors https://sekurak.pl/czym-jest-cors-cross-origin-resource-sharing-i-jak-wplywa-na-bezpieczenstwo/ (#cors)
 
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
