@@ -103,6 +103,10 @@ don't drink in the middle of the week
 * cors https://sekurak.pl/czym-jest-cors-cross-origin-resource-sharing-i-jak-wplywa-na-bezpieczenstwo/ (#cors)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+(20.07.2021)
+
+* save-data header https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Save-Data
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
