@@ -123,6 +123,7 @@ don't drink in the middle of the week
 (23.07.2021)
 
 * git gc https://git-scm.com/docs/git-gc (#git)
+* laravel eloquent transactions https://stackoverflow.com/questions/15105640/laravel-eloquent-orm-transactions (#laravel)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
