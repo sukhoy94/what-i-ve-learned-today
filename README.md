@@ -145,5 +145,7 @@ don't drink in the middle of the week
 
 * multiple boolean attrs in laravel https://laravel-news.com/group-multiple-boolean-attributes-in-laravel-nova
  (#laravel)
+ 
+ * check status of lamp stack https://www.e2enetworks.com/help/knowledge-base/how-to-check-running-status-of-lamp-stack/ (#linux)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
