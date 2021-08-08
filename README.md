@@ -3,6 +3,7 @@
 (08.08.2021)
 
 * be careful when changing API https://www.youtube.com/watch?v=yXnIW4DkuHQ (#php #laravel)
+* Laravel Controller: Move Logic to Action or Service Class https://www.youtube.com/watch?v=8DBMRByJUmU ((#php #laravel))
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
