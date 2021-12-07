@@ -1,5 +1,9 @@
 # what I've learned today
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+(7.12.2021)
+
+* https://habr.com/ru/company/domclick/blog/592087/ -- DDD article
+----------------------------------------------------------------------------------------------------------------------------------------------------
 (23.11.2021)
 
 * using criteria in doctrine https://hotexamples.com/examples/doctrine.common.collections/Criteria/-/php-criteria-class-examples.html (#symfony #doctrine)
