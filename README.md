@@ -1,4 +1,7 @@
 # what I've learned today
+(01.01.2022)
+
+* https://docs.github.com/en/search-github/getting-started-with-searching-on-github/about-searching-on-github - github searching manual
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 (20.12.2021)
