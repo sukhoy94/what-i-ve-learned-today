@@ -1,8 +1,8 @@
 # what I've learned today
-
 (05.01.2022)
 
 * https://floating-point-gui.de/languages/php/ - floating point issue php
+
 (03.01.2022)
 
 * https://www.jetbrains.com/help/phpstorm/use-tags-to-mark-specific-commits.html -- tag commits
