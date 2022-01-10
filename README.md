@@ -1,6 +1,8 @@
 # what I've learned today
 
-(10.01.2022) how to block access to specified files via htaccess
+(10.01.2022) 
+
+* how to block access to specified files via htaccess
 
 
 ```
@@ -10,6 +12,8 @@
 </FilesMatch>
 ```
 
+
+* solid simple explanation https://habr.com/ru/post/599943/
 
 (05.01.2022)
 
