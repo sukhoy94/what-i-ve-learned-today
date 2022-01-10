@@ -1,4 +1,16 @@
 # what I've learned today
+
+(10.01.2022) how to block access to specified files via htaccess
+
+
+```
+<FilesMatch "\.(pem|cert|cer|crt|key)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+```
+
+
 (05.01.2022)
 
 * https://floating-point-gui.de/languages/php/ - floating point issue php
