@@ -1,5 +1,10 @@
 # what I've learned today
 
+(12.01.2022) 
+
+* dockerignore https://codefresh.io/docker-tutorial/not-ignore-dockerignore-2/
+
+
 (10.01.2022) 
 
 * how to block access to specified files via htaccess
