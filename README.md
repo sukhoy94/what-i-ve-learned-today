@@ -1,5 +1,9 @@
 # what I've learned today
 
+(13.01.2022) 
+
+* fibers in php8.1 https://www.hashbangcode.com/article/fibers-php-81
+
 (12.01.2022) 
 
 * dockerignore https://codefresh.io/docker-tutorial/not-ignore-dockerignore-2/
