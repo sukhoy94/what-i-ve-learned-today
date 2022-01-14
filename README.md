@@ -1,5 +1,9 @@
 # what I've learned today
 
+(14.01.2022)
+
+* ILIKE postgres https://kb.objectrocket.com/postgresql/how-to-use-ilike-in-postgres-1258
+
 (13.01.2022) 
 
 * fibers in php8.1 https://www.hashbangcode.com/article/fibers-php-81
