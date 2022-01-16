@@ -1,5 +1,9 @@
 # what I've learned today
 
+(16.01.2022)
+
+* php8.1 features https://www.youtube.com/watch?v=5D337gaVPa4&t=3964s
+
 (14.01.2022)
 
 * ILIKE postgres https://kb.objectrocket.com/postgresql/how-to-use-ilike-in-postgres-1258
