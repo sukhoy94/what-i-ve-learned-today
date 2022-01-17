@@ -1,5 +1,9 @@
 # what I've learned today
 
+(17.01.2022)
+
+* how to check http protocol https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Forwarded-Proto
+
 (16.01.2022)
 
 * php8.1 features https://www.youtube.com/watch?v=5D337gaVPa4&t=3964s
