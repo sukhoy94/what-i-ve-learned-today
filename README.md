@@ -1,6 +1,6 @@
 # what I've learned today
 
-(17.01.2022)
+(18.01.2022)
 
 * jwt and jws https://stackoverflow.com/questions/27640930/what-is-the-difference-between-json-web-signature-jws-and-json-web-token-jwt
 
