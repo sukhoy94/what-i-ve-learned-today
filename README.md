@@ -2,6 +2,10 @@
 
 (17.01.2022)
 
+* jwt and jws https://stackoverflow.com/questions/27640930/what-is-the-difference-between-json-web-signature-jws-and-json-web-token-jwt
+
+(17.01.2022)
+
 * how to check http protocol https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Forwarded-Proto
 
 (16.01.2022)
