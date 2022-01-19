@@ -4,6 +4,7 @@
 
 * what is elastic search: https://www.youtube.com/watch?v=ZP0NmfyfsoM&ab_channel=IBMTechnology
 * elastic search for beginners: https://www.youtube.com/watch?v=1Nt2lZFbkbg&ab_channel=WarsawJUG
+* elastic search docker compose: https://gist.github.com/markheath/f246ec3aa5a3e7493991904e241a416a
 
 (18.01.2022)
 
