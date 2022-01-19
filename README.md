@@ -3,6 +3,7 @@
 (19.01.2022)
 
 * what is elastic search: https://www.youtube.com/watch?v=ZP0NmfyfsoM&ab_channel=IBMTechnology
+* elastic search for beginners: https://www.youtube.com/watch?v=1Nt2lZFbkbg&ab_channel=WarsawJUG
 
 (18.01.2022)
 
