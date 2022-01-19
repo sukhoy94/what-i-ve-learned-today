@@ -1,5 +1,9 @@
 # what I've learned today
 
+(19.01.2022)
+
+* what is elastic search: https://www.youtube.com/watch?v=ZP0NmfyfsoM&ab_channel=IBMTechnology
+
 (18.01.2022)
 
 * jwt and jws https://stackoverflow.com/questions/27640930/what-is-the-difference-between-json-web-signature-jws-and-json-web-token-jwt
