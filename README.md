@@ -1,4 +1,8 @@
 # what I've learned today
+(08.02.2022)
+
+DI in symfony - 
+https://medium.com/@OCharnyshevich/4-ways-to-inject-dependencies-in-symfony-that-you-probably-dont-know-about-65e8efe02af5
 
 (19.01.2022)
 
