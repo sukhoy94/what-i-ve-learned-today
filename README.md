@@ -1,41 +1,45 @@
 # what I've learned today
+(14.02.2022)
+* http-proxy sentry https://docs.sentry.io/platforms/php/configuration/options/#http-proxy
+----------------------------------------------------------------------------------------------------------------------------------------------------
 (08.02.2022)
 
 DI in symfony - 
 https://medium.com/@OCharnyshevich/4-ways-to-inject-dependencies-in-symfony-that-you-probably-dont-know-about-65e8efe02af5
-
+----------------------------------------------------------------------------------------------------------------------------------------------------
 (19.01.2022)
 
 * what is elastic search: https://www.youtube.com/watch?v=ZP0NmfyfsoM&ab_channel=IBMTechnology
 * elastic search for beginners: https://www.youtube.com/watch?v=1Nt2lZFbkbg&ab_channel=WarsawJUG
 * elastic search docker compose: https://gist.github.com/markheath/f246ec3aa5a3e7493991904e241a416a
 * elk docker official https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html
-
+----------------------------------------------------------------------------------------------------------------------------------------------------
 (18.01.2022)
 
 * jwt and jws https://stackoverflow.com/questions/27640930/what-is-the-difference-between-json-web-signature-jws-and-json-web-token-jwt
-
+----------------------------------------------------------------------------------------------------------------------------------------------------
 (17.01.2022)
 
 * how to check http protocol https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Forwarded-Proto
-
+----------------------------------------------------------------------------------------------------------------------------------------------------
 (16.01.2022)
 
 * php8.1 features https://www.youtube.com/watch?v=5D337gaVPa4&t=3964s
-
+----------------------------------------------------------------------------------------------------------------------------------------------------
 (14.01.2022)
 
 * ILIKE postgres https://kb.objectrocket.com/postgresql/how-to-use-ilike-in-postgres-1258
-
+----------------------------------------------------------------------------------------------------------------------------------------------------
 (13.01.2022) 
 
 * fibers in php8.1 https://www.hashbangcode.com/article/fibers-php-81
 
+----------------------------------------------------------------------------------------------------------------------------------------------------
 (12.01.2022) 
 
 * dockerignore https://codefresh.io/docker-tutorial/not-ignore-dockerignore-2/
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------
 (10.01.2022) 
 
 * how to block access to specified files via htaccess
@@ -50,15 +54,15 @@ https://medium.com/@OCharnyshevich/4-ways-to-inject-dependencies-in-symfony-that
 
 
 * solid simple explanation https://habr.com/ru/post/599943/
-
+----------------------------------------------------------------------------------------------------------------------------------------------------
 (05.01.2022)
 
 * https://floating-point-gui.de/languages/php/ - floating point issue php
-
+----------------------------------------------------------------------------------------------------------------------------------------------------
 (03.01.2022)
 
 * https://www.jetbrains.com/help/phpstorm/use-tags-to-mark-specific-commits.html -- tag commits
-
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 (01.01.2022)
 
