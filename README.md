@@ -1,5 +1,11 @@
 # what I've learned today
 
+(18.02.2022)
+
+* koddlo blog https://koddlo.pl/docker-sciagawka-z-podstawowymi-komendami/
+
+
+
 (16.02.2022)
 
 * docker - https://habr.com/ru/post/651813/
