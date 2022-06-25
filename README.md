@@ -1,4 +1,8 @@
 # what I've learned today
+(25.06.2022)
+
+* Load Balancer https://www.f5.com/services/resources/glossary/load-balancer#:~:text=A%20load%20balancer%20is%20a,users)%20and%20reliability%20of%20applications.
+
 
 (18.02.2022)
 
