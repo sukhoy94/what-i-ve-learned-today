@@ -1,4 +1,9 @@
 # what I've learned today
+
+(01.07.2022)
+
+* pgplsql triggers https://www.postgresql.org/docs/current/plpgsql-trigger.html
+
 (25.06.2022)
 
 * Load Balancer https://www.f5.com/services/resources/glossary/load-balancer#:~:text=A%20load%20balancer%20is%20a,users)%20and%20reliability%20of%20applications.
