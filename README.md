@@ -1,4 +1,8 @@
 # what I've learned today
+(31.07.2022)
+
+* How to remove docker from Ubuntu https://askubuntu.com/questions/935569/how-to-completely-uninstall-docker
+
 
 (01.07.2022)
 
