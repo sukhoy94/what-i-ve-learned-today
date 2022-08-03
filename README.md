@@ -1,4 +1,18 @@
 # what I've learned today
+(03.08.2022)
+
+* php web-server
+
+```
+php -S localhost:4000
+```
+
+to specify folder (for example www)
+
+```
+php -S localhost:4000 -t www
+```
+
 (31.07.2022)
 
 * How to remove docker from Ubuntu https://askubuntu.com/questions/935569/how-to-completely-uninstall-docker
