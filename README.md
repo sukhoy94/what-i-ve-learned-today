@@ -1,4 +1,8 @@
 # what I've learned today
+(30.12.2022)
+* UTM parameters - https://en.wikipedia.org/wiki/UTM_parameters
+
+
 (03.08.2022)
 
 * php web-server
