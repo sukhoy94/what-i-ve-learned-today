@@ -1,4 +1,9 @@
 # what I've learned today
+(07.01.2023)
+
+* How to get to docker container - docker exec -it (container) (command)
+
+
 (30.12.2022)
 * UTM parameters - https://en.wikipedia.org/wiki/UTM_parameters
 
