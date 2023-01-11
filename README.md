@@ -1,4 +1,12 @@
 # what I've learned today
+(11.01.2023)
+
+* add alias to cmd windows
+
+```
+doskey /macrofile=path\alias.txt
+```
+
 (07.01.2023)
 
 * How to get to docker container - docker exec -it (container) (command)
