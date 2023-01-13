@@ -1,4 +1,9 @@
 # what I've learned today
+(13.01.2023)
+* How to go to the end of the function/if/any other code block
+https://intellij-support.jetbrains.com/hc/en-us/community/posts/207071115-How-to-jump-to-matching-braces-
+
+Super cool for huge codeblocks :d
 (11.01.2023)
 
 * add alias to cmd windows
