@@ -1,4 +1,9 @@
 # what I've learned today
+
+(02.02.2023)
+#Recover .lnk hidden files
+* https://recoverit.wondershare.com/file-recovery/recover-shortcut-files.html
+
 (13.01.2023)
 * How to go to the end of the function/if/any other code block
 https://intellij-support.jetbrains.com/hc/en-us/community/posts/207071115-How-to-jump-to-matching-braces-
